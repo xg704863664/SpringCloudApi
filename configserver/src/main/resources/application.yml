@@ -4,9 +4,9 @@ server:
 eureka:
   instance:
     prefer-ip-address: true
-    lease-expiration-duration-in-seconds: 5  #Èç¹ûÏÖÔÚ³¬¹ıÁË5ÃëµÄ¼ä¸ô
+    lease-expiration-duration-in-seconds: 5  #å¦‚æœç°åœ¨è¶…è¿‡äº†5ç§’çš„é—´éš”
     instance-id:  ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
-    lease-renewal-interval-in-seconds: 2 # ÉèÖÃĞÄÌøµÄÊ±¼ä¼ä¸ô
+    lease-renewal-interval-in-seconds: 2 # è®¾ç½®å¿ƒè·³çš„æ—¶é—´é—´éš”
   client:
     service-url:
       defaultZone: http://localhost:8001/eureka,http://localhost:8010/eureka
@@ -17,8 +17,6 @@ spring:
       server:
         git:
           uri: https://github.com/xg704863664/config.git
-#          username: 704863664@qq.com
-#          password: xiagen704863664
           search-paths: info
           clone-on-start: true
           force-pull: true
