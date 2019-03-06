@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudApi.iml" filepath="$PROJECT_DIR$/SpringCloudApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erkua/erkua.iml" filepath="$PROJECT_DIR$/erkua/erkua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-client/order-client.iml" filepath="$PROJECT_DIR$/order-client/order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/order-server.iml" filepath="$PROJECT_DIR$/eurekaclient/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+server:
+  port: 8003
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    lease-expiration-duration-in-seconds: 5  #如果现在超过了5秒的间隔
+    instance-id:  ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
+    lease-renewal-interval-in-seconds: 2 # 设置心跳的时间间隔
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka,http://localhost:8010/eureka
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xg704863664/config.git
+#          username: 704863664@qq.com
+#          password: xiagen704863664
+          search-paths: info
+          clone-on-start: true
+          force-pull: true
+      fail-fast: true
+      label: master

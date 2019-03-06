@@ -1,0 +1,16 @@
+server:
+  port: 8010
+eureka:
+#  instance:
+#    hostname: ${spring.application.name}
+#    prefer-ip-address: true
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    healthcheck:
+      enabled: true
+    service-url:
+       defaultZone: http://localhost:8001/eureka
+  server:
+    waitTimeInMsWhenSyncEmpty: 1000
+    eviction-interval-timer-in-ms: 1000

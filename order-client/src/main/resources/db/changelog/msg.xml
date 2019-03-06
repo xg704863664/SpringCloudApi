@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <property name="now" value="now()" dbms="mysql,h2"/>
+    <property name="now" value="current_timestamp" dbms="postgresql"/>
+    <property name="now" value="sysdate" dbms="oracle"/>
+    <changeSet id="20161103153345" author="xiagen">
+		<preConditions onFail="MARK_RAN">
+	        <not>
+	            <tableExists tableName="msg"/>
+	        </not>
+	    </preConditions>
+
+		<createTable tableName="t_msg" remarks="消息表">
+			<column name="ID" type="BIGINT" remarks="主键" autoIncrement="true">
+				<constraints primaryKey="true" nullable="false" />
+			</column>
+			<column name="msg" type="varchar(36)" remarks="消息内容"/>
+		</createTable>
+    </changeSet>
+</databaseChangeLog>

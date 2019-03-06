@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: order-server
+  cloud:
+    config:
+      label: master
+      profile: ${spring.profiles.active}
+      discovery:
+        service-id: configserver
+        enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka,http://localhost:8010/eureka
