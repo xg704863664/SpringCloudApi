@@ -15,21 +15,34 @@ hystrix:
           thread:
             timeoutInMilliseconds: 3000
 spring:
+   cache:
+     type: redis
+   data:
+     elasticsearch:
+       cluster-name: es
+       cluster-nodes: 192.168.116.129:9300
+  #   elasticsearch:
+#     rest:
+#       uris: http://192.168.116.128:9002
    liquibase:
       enabled: true
       change-log: classpath:db/master.xml
       default-schema: test
    redis:
-      host: 172.16.40.21
+#      host: 192.168.116.128
       password:
-      port: 6379
-      database: 13
+#      port: 7002
+      database: 0
+      cluster:
+        nodes: 192.168.116.128:6379,192.168.116.128:7001,192.168.116.128:7002,192.168.116.129:6379,192.168.116.129:7001,192.168.116.129:7002
+        max-redirects: 3
       jedis:
         pool:
           max-active: 200
           max-idle: 20
           min-idle: 5
-          max-wait: 50ms
+          max-wait: 50s
+
    datasource:
      type: com.alibaba.druid.pool.DruidDataSource
      driver-class-name: com.mysql.jdbc.Driver
@@ -67,11 +80,24 @@ spring:
 #  configuration:
 #      map-underscore-to-camel-case: true
 #      default-fetch-size: 100
-
+#rocketmq:
+#  name-server: 192.168.116.129:9876;192.168.116.128:9876
+#  producer:
+#    group: my-group
+#    send-message-timeout: 300000
+#    compress-message-body-threshold: 4096
+#    max-message-size: 4194304
+#    retry-times-when-send-async-failed: 0
+#    retry-next-server: true
+#    retry-times-when-send-failed: 2
 mybatis:
   configuration:
     cache-enabled: true
     map-underscore-to-camel-case: true
     default-statement-timeout: 30
     default-fetch-size: 100
-#      default-statement-timeout: 30
+
+#j2cache:
+#  config-location: /j2cache.properties
+#  redis-client: lettuce
+#  open-spring-cache: true

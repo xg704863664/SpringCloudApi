@@ -1,0 +1,116 @@
+server:
+  tomcat:
+    max-threads: 200
+  port: 8881
+feign:
+  hystrix:
+    enabled: true
+ribbon:
+  ConnectTimeout: 3000
+  ReadTimeout: 8000
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
+#spring:
+#   liquibase:
+#      enabled: true
+#      change-log: classpath:db/master.xml
+#      default-schema: test
+#   redis:
+#      host: 172.16.40.21
+#      password:
+#      port: 6379
+#      database: 13
+#      jedis:
+#        pool:
+#          max-active: 200
+#          max-idle: 20
+#          min-idle: 5
+#          max-wait: 50ms
+#   datasource:
+#     type: com.alibaba.druid.pool.DruidDataSource
+#     driver-class-name: com.mysql.jdbc.Driver
+#     password: 12345678
+#     url: jdbc:mysql://192.168.116.128:3306/test?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=UTF8&useSSL=false
+#     username: root
+#     druid:
+#       initial-size: 5
+#       min-idle: 10
+#       max-active: 30
+#       max-wait: 60000
+#       time-between-eviction-runs-millis: 10000
+#       min-evictable-idle-time-millis: 300000
+#       filters: stat,wall,log4j,config
+#       validation-query: select 1
+#       validation-query-timeout: 3000
+#       pool-prepared-statements: true
+#       max-open-prepared-statements: 50
+#       max-pool-prepared-statement-per-connection-size: 20
+#       test-while-idle: true
+#       test-on-borrow: false
+#       test-on-return: false
+#       web-stat-filter:
+#         enabled: true
+#         url-pattern: /test/*
+#       stat-view-servlet:
+#         enabled: true
+#         url-pattern: /druid/*
+#         login-username: admin
+#         login-password: admin
+#       default-auto-commit: false
+#mybatis:
+#  type-aliases-package: com.example.domain.model
+#  type-handlers-package: com.example.typehandler
+#  configuration:
+#      map-underscore-to-camel-case: true
+#      default-fetch-size: 100
+#rocketmq:
+#  name-server: 192.168.116.129:9876;192.168.116.128:9876
+#  producer:
+#    group: my-group
+#    send-message-timeout: 300000
+#    compress-message-body-threshold: 4096
+#    max-message-size: 4194304
+#    retry-times-when-send-async-failed: 0
+#    retry-next-server: true
+#    retry-times-when-send-failed: 2
+#mybatis:
+#  configuration:
+#    cache-enabled: true
+#    map-underscore-to-camel-case: true
+#    default-statement-timeout: 30
+#    default-fetch-size: 100
+#      default-statement-timeout: 30
+spring:
+#  kafka:
+#    bootstrap-servers: 192.168.116.128:9092,192.168.116.129:9092
+#    consumer:
+#      enable-auto-commit: false
+#      key-deserializer: org.apache.kafka.common.serialization.ByteArrayDeserializer
+#      value-deserializer: org.apache.kafka.common.serialization.ByteArrayDeserializer
+#      auto-offset-reset: earliest
+#      auto-commit-interval: 5000
+#    producer:
+#      key-serializer: org.apache.kafka.common.serialization.ByteArraySerializer
+#      value-serializer: org.apache.kafka.common.serialization.ByteArraySerializer
+#    listener:
+#      concurrency: 1
+#  cloud:
+#    stream:
+#      bindings:
+#        input:
+#          group: consumer-11111111
+#          destination: test-6
+#          consumer:
+#            autoCommitOffset: false
+#            concurrency: 1
+#        output:
+#          destination: test-6
+#      kafka:
+#        binder:
+#          brokers: 192.168.116.128:9092,192.168.116.129:9092
+#          min-partition-count: 1

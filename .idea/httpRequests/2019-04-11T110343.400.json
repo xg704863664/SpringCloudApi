@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-04-11T03:03:43.623+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public java.lang.String com.eurekaclient.eurekaclient.controller.OrderController.add(java.util.Map<java.lang.String, java.lang.String>)",
+  "path": "/add"
+}

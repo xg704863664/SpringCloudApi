@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" line="10" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" line="30" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d761ce07-4e40-4147-a2a2-2fab0a2977c0" name="Default" comment="" />
+    <list default="true" id="d761ce07-4e40-4147-a2a2-2fab0a2977c0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_transport_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_kafka_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_kafka_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_kafka_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_kafka_core_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_3_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_kafka_3_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/aop/AspectRequestAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/config/SparkStreamingKafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/AlipayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/ListenerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MqSinkI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/RedisServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/SparkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/ElasticsearchConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MyConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/TestRedisServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/TestRepositry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-client/src/main/resources/j2cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-bus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-bus/springcloudbus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-bus/src/main/java/com/bus/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-bus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-bus/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudApi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erkua/src/main/resources/application-one.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erkua/src/main/resources/application-one.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaclient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaclient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/controller/OrderClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/controller/OrderClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MsgService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MsgService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/erkua/target/" />
@@ -12,11 +122,16 @@
     <ignored path="$PROJECT_DIR$/configserver/target/" />
     <ignored path="$PROJECT_DIR$/zuul-server/target/" />
     <ignored path="$PROJECT_DIR$/order-client/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-bus/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -36,12 +151,74 @@
     <favorites_list name="SpringCloudApi" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-bus/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="43" column="21" selection-start-line="40" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-bus/src/main/java/com/bus/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,60 +227,72 @@
     <findStrings>
       <find>instanceId</find>
       <find>setAutoCommit</find>
+      <find>收到消息</find>
+      <find>111111111111111111111</find>
+      <find>testOnBorrow</find>
+      <find>AutoConfiguredMapperScannerRegistrar</find>
+      <find>consumerProperties</find>
+      <find>getConsumerProperties(</find>
+      <find>zkNodes</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/erkua/src/main/java/com/erkua/erkua/ErkuaApplication.java" />
-        <option value="$PROJECT_DIR$/erkua/src/main/resources/application.ymal" />
-        <option value="$PROJECT_DIR$/erkua/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/configserver/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/configserver/src/main/java/com/spring/configserver/ConfigserverApplication.java" />
-        <option value="$PROJECT_DIR$/configserver/pom.xml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/resources/zuul-server-dev.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/config/MyFilter.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/client/test.java" />
-        <option value="$PROJECT_DIR$/erkua/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/erkua/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/configserver/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/erkua/src/main/resources/application-two.yml" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/FallBack/RpcClientFallBack.java" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/ZuulServerApplication.java" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/config/MyFallbackProvider.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/client/RpcClient.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/redis/RedisLock.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/redis/RedisTest.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/client/initMap.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java" />
-        <option value="$PROJECT_DIR$/order-client/src/test/java/com/test/orderclient/OrderClientApplicationTests.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
-        <option value="$PROJECT_DIR$/order-client/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/order-client/src/main/resources/db/changelog/oder.xml" />
         <option value="$PROJECT_DIR$/order-client/src/main/resources/db/changelog/order.xml" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Order.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/order-client/pom.xml" />
         <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Msg.java" />
         <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/MybatisPageConfig.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MsgService.java" />
         <option value="$PROJECT_DIR$/order-client/src/main/resources/db/master.xml" />
         <option value="$PROJECT_DIR$/order-client/src/main/resources/db/changelog/msg.xml" />
         <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/dao/MsgMapper.java" />
-        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/controller/OrderClientController.java" />
         <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/dao/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MyConsumer1.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MsgService.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Order.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/MyCacheConfig.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/resources/j2cache.properties" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/TestRedisServer.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/AlipayService.java" />
+        <option value="restClient/response6.txt" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/RedisServerTest.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/aop/AspectRequestAop.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/WebInit.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/aop/WebInit.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/ElasticsearchConfig.java" />
+        <option value="$PROJECT_DIR$/order-client/pom.xml" />
+        <option value="$PROJECT_DIR$/order-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/TestRepositry.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/controller/OrderClientController.java" />
+        <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Test.java" />
         <option value="$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MqSinkO.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/SparkService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-bus/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/erkua/src/main/resources/application-one.yml" />
+        <option value="$PROJECT_DIR$/configserver/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/config/SparkStreamingKafkaConfig.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MqSinkI.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/ListenerService.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/Msg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-bus/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-bus/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-bus/src/main/java/com/bus/App.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java" />
       </list>
     </option>
   </component>
@@ -155,17 +344,16 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="72" />
+    <option name="y" value="17" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,11 +364,6 @@
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="erkua" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,160 +427,36 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
-              <item name="FallBack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="orderclient" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -405,27 +464,62 @@
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
-              <item name="order-client" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudApi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-bus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="changelog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,28 +530,128 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551851131712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559530727195" />
+    <property name="last_opened_file_path" value="D:/tx-lcn-5.0.2.RELEASE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.4634703" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.eurekaclient.eurekaclient" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eurekaclient.eurekaclient.service" />
+      <recent name="com.test.orderclient.dao" />
+      <recent name="com.test.orderclient.service" />
       <recent name="com.test.orderclient.redis" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kj\SpringCloudApi\spring-cloud-bus\src\main\resources" />
+      <recent name="D:\kj\SpringCloudApi\order-client\src\main\resources" />
+      <recent name="D:\kj\SpringCloudApi\eurekaclient\src\main\resources" />
       <recent name="D:\kj\SpringCloudApi\order-client\src\main\resources\db\changelog" />
       <recent name="D:\kj\SpringCloudApi\order-client\src\main\resources\db" />
-      <recent name="D:\kj\SpringCloudApi\order-client\src\main\resources" />
-      <recent name="D:\kj\SpringCloudApi\erkua\src\main\resources" />
-      <recent name="D:\kj\SpringCloudApi\zuul-server\src\main\resources" />
     </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081" />
+          <option name="urlPath" value="/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json; charset=utf-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="map" />
+                <option name="value" value="test" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;map&quot;:&quot;123&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081" />
+          <option name="urlPath" value="/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json; charset=utf-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="map" />
+                <option name="value" value="test" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081" />
+          <option name="urlPath" value="/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="map" />
+                <option name="value" value="test" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://httpbin.org/post" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -475,51 +669,28 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.1953668" />
+    <option name="contentProportion" value="0.248068" />
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderClientApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaclientApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderClientApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="order-client" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.orderclient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.orderclient" />
-      <option name="MAIN_CLASS_NAME" value="com.test.orderclient.OrderClientApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderClientApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="order-client" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.orderclient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.orderclient" />
-      <option name="MAIN_CLASS_NAME" value="com.test.orderclient.OrderClientApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="post-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" index="3">
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudbus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bus.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -537,9 +708,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErkuaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ErkuaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="erkua" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.erkua.erkua.ErkuaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=one" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -547,7 +720,7 @@
     <configuration name="EurekaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="order-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eurekaclient.eurekaclient.EurekaclientApplication" />
-      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev -Xms768m -Xmx768m -XX:PermSize=128m" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -592,21 +765,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.OrderClientApplicationTests" />
-      <item itemvalue="JUnit.OrderClientApplicationTests.contextLoads" />
+      <item itemvalue="HTTP Request.post-requests#3" />
       <item itemvalue="Spring Boot.EurekaclientApplication" />
       <item itemvalue="Spring Boot.ErkuaApplication" />
       <item itemvalue="Spring Boot.ConfigserverApplication" />
       <item itemvalue="Spring Boot.ZuulServerApplication" />
       <item itemvalue="Spring Boot.OrderClientApplication" />
+      <item itemvalue="Spring Boot.App" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderClientApplication" />
-        <item itemvalue="JUnit.OrderClientApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.OrderClientApplicationTests" />
-        <item itemvalue="Spring Boot.ZuulServerApplication" />
+        <item itemvalue="Spring Boot.App" />
         <item itemvalue="Spring Boot.ConfigserverApplication" />
+        <item itemvalue="Spring Boot.OrderClientApplication" />
+        <item itemvalue="Spring Boot.ZuulServerApplication" />
+        <item itemvalue="HTTP Request.post-requests#3" />
       </list>
     </recent_temporary>
   </component>
@@ -630,6 +803,31 @@
       <workItem from="1550823594280" duration="743000" />
       <workItem from="1551057525021" duration="585000" />
       <workItem from="1551661632841" duration="22961000" />
+      <workItem from="1553044908848" duration="17792000" />
+      <workItem from="1553219476249" duration="2572000" />
+      <workItem from="1553571019401" duration="3689000" />
+      <workItem from="1553590171024" duration="48000" />
+      <workItem from="1553651393962" duration="7073000" />
+      <workItem from="1554082098760" duration="14000" />
+      <workItem from="1554082779532" duration="9769000" />
+      <workItem from="1554104878503" duration="2293000" />
+      <workItem from="1554170395465" duration="9424000" />
+      <workItem from="1554686706270" duration="5180000" />
+      <workItem from="1554949448077" duration="5311000" />
+      <workItem from="1555038163316" duration="9939000" />
+      <workItem from="1555653836237" duration="5488000" />
+      <workItem from="1555984155598" duration="1142000" />
+      <workItem from="1555985926697" duration="3988000" />
+      <workItem from="1555998888220" duration="609000" />
+      <workItem from="1555999914669" duration="6297000" />
+      <workItem from="1556173890052" duration="8425000" />
+      <workItem from="1556242770206" duration="2203000" />
+      <workItem from="1557123520914" duration="36601000" />
+      <workItem from="1557885213605" duration="25283000" />
+      <workItem from="1557988642773" duration="21323000" />
+      <workItem from="1558402567079" duration="268000" />
+      <workItem from="1558506033253" duration="1804000" />
+      <workItem from="1558921112306" duration="10811000" />
     </task>
     <servers />
   </component>
@@ -666,13 +864,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91551000" />
+    <option name="totallyTimeSpent" value="288883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4947735" visible="true" weight="0.3517398" />
-      <window_info id="Structure" order="1" sideWeight="0.5052265" side_tool="true" weight="0.33585477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49221185" visible="true" weight="0.5030257" />
+      <window_info id="Structure" order="1" sideWeight="0.5077882" side_tool="true" weight="0.48033282" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -680,8 +878,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" sideWeight="0.5052265" side_tool="true" weight="0.33585477" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5106036" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5090016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -692,9 +890,11 @@
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.6949429" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32843137" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.59477127" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32242227" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.4140753" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.47135842" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -704,13 +904,13 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.50832075" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
       <window_info anchor="right" id="Maven" order="10" weight="0.32980332" />
-      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="SciView" order="11" weight="0.32980332" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4947735" visible="true" weight="0.3517398" />
-      <window_info id="Structure" order="1" sideWeight="0.5052265" side_tool="true" weight="0.33585477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49221185" visible="true" weight="0.5030257" />
+      <window_info id="Structure" order="1" sideWeight="0.5077882" side_tool="true" weight="0.48033282" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -718,8 +918,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" sideWeight="0.5052265" side_tool="true" weight="0.33585477" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5106036" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5090016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -730,9 +930,11 @@
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.6949429" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.59477127" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32405892" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.3840246" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.47135842" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -742,9 +944,9 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.50832075" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
       <window_info anchor="right" id="Maven" order="10" weight="0.32980332" />
-      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="SciView" order="11" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -759,6 +961,48 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/OrderService.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/aop/AspectRequestAop.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/apache-maven-3.3.3/repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/config/SparkStreamingKafkaConfig.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/concurrent/locks/Lock.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/config/SparkStreamingKafkaConfig.java</url>
+          <line>25</line>
+          <properties field="javaStreamingContext" class="com.eurekaclient.eurekaclient.config.SparkStreamingKafkaConfig" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -767,80 +1011,348 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/apache-maven-3.3.3/repository/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.1.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.1.0.RELEASE.pom">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/spring-messaging/5.1.4.RELEASE/spring-messaging-5.1.4.RELEASE-sources.jar!/org/springframework/messaging/support/GenericMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="59">
+          <caret line="101" column="45" selection-start-line="101" selection-start-column="45" selection-end-line="101" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/aop/aspectj/HystrixCommandAspect.class">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/integration/spring-integration-core/5.1.2.RELEASE/spring-integration-core-5.1.2.RELEASE.jar!/org/springframework/integration/support/MutableMessageHeaders.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        <state relative-caret-position="97">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.jar!/org/springframework/cloud/client/SpringCloudApplication.class">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/spring-messaging/5.1.4.RELEASE/spring-messaging-5.1.4.RELEASE-sources.jar!/org/springframework/messaging/support/MessageHeaderAccessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="97">
+          <caret line="628" column="18" selection-start-line="628" selection-start-column="18" selection-end-line="628" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.class">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="97">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/kafka/spring-kafka/2.2.3.RELEASE/spring-kafka-2.2.3.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="116">
+          <caret line="101" column="59" selection-start-line="101" selection-start-column="59" selection-end-line="101" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/apache-maven-3.3.3/repository/org/springframework/cloud/spring-cloud-dependencies/Greenwich.RELEASE/spring-cloud-dependencies-Greenwich.RELEASE.pom">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1.jar!/org/apache/spark/api/java/JavaSparkContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+        <state relative-caret-position="515">
+          <caret line="472" column="37" selection-start-line="472" selection-start-column="28" selection-end-line="472" selection-end-column="37" />
+          <folding>
+            <element signature="e#42613#42614#0" expanded="true" />
+            <element signature="e#42653#42654#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1.jar!/org/apache/spark/streaming/api/java/AbstractJavaDStreamLike.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="194">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/kafka/spring-kafka/2.2.3.RELEASE/spring-kafka-2.2.3.RELEASE.jar!/org/springframework/kafka/support/converter/KafkaMessageHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/spring-messaging/5.1.4.RELEASE/spring-messaging-5.1.4.RELEASE-sources.jar!/org/springframework/messaging/MessageHeaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="135" column="28" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/operators/NotificationLite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <folding>
+            <element signature="e#0#2698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="162" column="33" lean-forward="true" selection-start-line="162" selection-start-column="33" selection-end-line="162" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1.jar!/org/apache/spark/streaming/api/java/JavaStreamingContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1.jar!/org/apache/spark/streaming/api/java/JavaReceiverInputDStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1.jar!/org/apache/spark/SparkConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="810" column="16" selection-start-line="810" selection-start-column="16" selection-end-line="810" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.1/spark-streaming-kafka-0-10_2.11-2.3.1.jar!/org/apache/spark/streaming/kafka010/PerPartitionConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.1/spark-streaming-kafka-0-10_2.11-2.3.1.jar!/org/apache/spark/streaming/kafka010/DefaultPerPartitionConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka_2.11/1.6.3/spark-streaming-kafka_2.11-1.6.3.jar!/org/apache/spark/streaming/kafka/KafkaUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="43" column="305" selection-start-line="43" selection-start-column="287" selection-end-line="43" selection-end-column="305" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/src/main/resources/application.yml">
+    <entry file="file://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka_2.11/1.6.2/spark-streaming-kafka_2.11-1.6.2.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="-4332" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0.jar!/org/apache/spark/streaming/kafka010/LocationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/ZuulServerApplication.java">
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="89" column="56" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.1/spark-streaming-kafka-0-10_2.11-2.3.1.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="112" column="90" lean-forward="true" selection-start-line="112" selection-start-column="90" selection-end-line="112" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1.jar!/org/apache/spark/api/java/function/Function2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1.jar!/org/apache/spark/streaming/api/java/JavaInputDStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="164" column="19" lean-forward="true" selection-start-line="164" selection-start-column="19" selection-end-line="164" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="14" />
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java">
+    <entry file="file://$PROJECT_DIR$/erkua/src/main/java/com/erkua/erkua/ErkuaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erkua/src/main/resources/application-two.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erkua/src/main/resources/application-one.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver/src/main/java/com/spring/configserver/ConfigserverApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/SparkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/RedisServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/AlipayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/config/SparkStreamingKafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="30" column="78" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/MqSinkI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="12" column="30" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/ListenerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="31" column="53" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/service/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="101" selection-start-line="101" selection-start-column="1" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-bus/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-bus/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-bus/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="43" column="21" selection-start-line="40" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-bus/src/main/java/com/bus/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -848,345 +1360,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/config/MyFilter.java">
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="144">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/src/main/java/com/test/zuulserver/config/MyFallbackProvider.java">
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/eurekaclient/eurekaclient/EurekaclientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/apache-maven-3.3.3/repository/org/springframework/cloud/spring-cloud-starter-openfeign/2.1.0.RELEASE/spring-cloud-starter-openfeign-2.1.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="55" column="59" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/time/Duration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar!/org/apache/commons/pool2/impl/GenericKeyedObjectPoolConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar!/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/data/spring-data-redis/2.1.4.RELEASE/spring-data-redis-2.1.4.RELEASE.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="109" column="92" selection-start-line="109" selection-start-column="77" selection-end-line="109" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/test/java/com/test/orderclient/OrderClientApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/client/initMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/redis/RedisLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="31" column="94" selection-start-line="31" selection-start-column="94" selection-end-line="31" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/redis/RedisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/FallBack/RpcClientFallBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/client/RpcClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/Options.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/Param.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="147" column="41" selection-start-line="147" selection-start-column="33" selection-end-line="147" selection-end-column="41" />
-          <folding>
-            <element signature="e#4787#4788#0" expanded="true" />
-            <element signature="e#4813#4814#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/OrderClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="101">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/com/github/pagehelper/pagehelper/4.1.4/pagehelper-4.1.4.jar!/com/github/pagehelper/SqlUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
-          <folding>
-            <element signature="e#3338#3339#0" expanded="true" />
-            <element signature="e#3374#3375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/apache-maven-3.3.3/repository/com/github/pagehelper/pagehelper/4.1.4/pagehelper-4.1.4.jar!/com/github/pagehelper/PageHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="95" column="22" lean-forward="true" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
-          <folding>
-            <element signature="e#1547#1548#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/entity/Msg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/db/changelog/order.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/dao/MsgMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/db/changelog/msg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/MsgService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/controller/OrderClientController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/dao/OrderMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/resources/db/master.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-client/src/main/java/com/test/orderclient/config/MybatisPageConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1219,6 +1406,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1242,7 +1430,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>erkua</last-edited>
+          <last-edited>springcloudbus</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

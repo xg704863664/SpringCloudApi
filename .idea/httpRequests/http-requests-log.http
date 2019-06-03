@@ -1,0 +1,76 @@
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+{"map":"123"}
+
+<> 2019-04-11T111031.200.txt
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+{"map":"123"}
+
+<> 2019-04-11T111024.200.txt
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+{"map":"123"}
+
+<> 2019-04-11T110449.200.txt
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+{"map":"123"}
+
+<> 2019-04-11T110422.200.txt
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+<> 2019-04-11T110343.400.json
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: application/json; charset=utf-8
+
+<> 2019-04-11T110258.400.json
+
+###
+
+POST http://localhost:8081/add?map=test
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+<> 2019-04-11T110138.415.json
+
+###
+
+POST https://httpbin.org/post
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Name
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="data.json"
+Content-Type: application/json
+
+< C:\Users\Administrator\AppData\Local\Temp\http_request_input_file.txt
+--WebAppBoundary--
+
+<> 2019-04-11T105745.200.json
+
+###
+

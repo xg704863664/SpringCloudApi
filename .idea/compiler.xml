@@ -10,7 +10,7 @@
         <module name="erkua" />
         <module name="order-client" />
         <module name="order-server" />
-        <module name="SpringCloudApi" />
+        <module name="springcloudbus" />
         <module name="zuul-server" />
       </profile>
     </annotationProcessing>
@@ -19,7 +19,8 @@
       <module name="erkua" target="1.8" />
       <module name="order-client" target="1.8" />
       <module name="order-server" target="1.8" />
-      <module name="SpringCloudApi" target="1.5" />
+      <module name="SpringCloudApi" target="1.8" />
+      <module name="springcloudbus" target="1.8" />
       <module name="zuul-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -29,6 +30,7 @@
       <module name="erkua" options="-parameters" />
       <module name="order-client" options="-parameters" />
       <module name="order-server" options="-parameters" />
+      <module name="springcloudbus" options="-parameters" />
       <module name="zuul-server" options="-parameters" />
     </option>
   </component>

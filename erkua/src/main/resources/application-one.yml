@@ -9,8 +9,8 @@ eureka:
     fetchRegistry: false
     healthcheck:
       enabled: true
-    service-url:
-       defaultZone: http://localhost:8010/eureka
+#    service-url:
+#       defaultZone: http://localhost:8010/eureka
   server:
     waitTimeInMsWhenSyncEmpty: 1000
-    eviction-interval-timer-in-ms: 1000 # 设置清理的间隔时间
+    eviction-interval-timer-in-ms: 1000

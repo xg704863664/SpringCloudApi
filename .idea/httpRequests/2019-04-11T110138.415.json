@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-04-11T03:01:38.772+0000",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "message": "Content type 'multipart/form-data;boundary=WebAppBoundary;charset=UTF-8' not supported",
+  "path": "/add"
+}
